@@ -1,0 +1,455 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "title": "Wowen",
+      "route": "/wo"
+    },
+    {
+      "id": "2",
+      "title": "Wowen",
+      "route": "/wo"
+    },
+    {
+      "id": "3",
+      "title": "Wowen",
+      "route": "/wo"
+    },
+    {
+      "id": "3",
+      "title": "Wowen",
+      "route": "/wo"
+    }
+  ],
+  "links": [
+    {
+      "id": 1,
+      "text": "About Us",
+      "route": "/aboutus"
+    },
+    {
+      "id": 2,
+      "text": "Blog",
+      "route": "/blog"
+    },
+    {
+      "id": 3,
+      "text": "Contact Us",
+      "route": "/contact"
+    },
+    {
+      "id": 4,
+      "text": "Help & Support",
+      "route": "/help"
+    }
+  ],
+  "socials": [
+    {
+      "id": 1,
+      "avatar": "/assets/instagram.png"
+    },
+    {
+      "id": 2,
+      "avatar": "/assets/facebook.png"
+    },
+    {
+      "id": 3,
+      "avatar": "/assets/messenger.png"
+    }
+  ],
+  "secondlinks": [
+    {
+      "id": 1,
+      "avatar": "/assets/Sign in.png",
+      "text": "Sign in",
+      "route": "/signin"
+    },
+    {
+      "id": 2,
+      "avatar": "/assets/favourite.png",
+      "text": "Favorite",
+      "route": "/favorite"
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "text": "Cart",
+      "avatar": "/assets/cart-progress.png",
+      "route": "/cart"
+    }
+  ],
+  "options": [
+    {
+      "id": 1,
+      "text": "USD"
+    },
+    {
+      "id": 2,
+      "text": "NGN"
+    },
+    {
+      "id": 3,
+      "text": "EUR"
+    }
+  ],
+  "languages": [
+    {
+      "id": 1,
+      "text": "English"
+    },
+    {
+      "id": 2,
+      "text": "English"
+    }
+  ],
+  "thirdlinks": [
+    {
+      "id": 1,
+      "text": "Woman",
+      "route": "/m"
+    },
+    {
+      "id": 1,
+      "text": "Male",
+      "route": "/a"
+    },
+    {
+      "id": 1,
+      "text": "Mother-child",
+      "route": "/o"
+    },
+    {
+      "id": 1,
+      "text": "Home & Furniture",
+      "route": "/h"
+    },
+    {
+      "id": 1,
+      "text": "Super market",
+      "route": "/m"
+    },
+    {
+      "id": 1,
+      "text": "Cosmetics",
+      "route": "/c"
+    },
+    {
+      "id": 1,
+      "text": "Shoe & Bag",
+      "route": "/"
+    },
+    {
+      "id": 1,
+      "text": "Electronic",
+      "route": "/e"
+    },
+    {
+      "id": 1,
+      "text": "Sport & Outdoor",
+      "route": "/s"
+    },
+    {
+      "id": 1,
+      "text": "Best seller",
+      "route": "/b"
+    }
+  ],
+  "homecarousels": [
+    {
+      "image": "/public/assets/top-girls.png",
+      "title": "Kimonos, Caftans & Pareos",
+      "description": "Poolside glam included from $4.99",
+      "background": "#4172DC",
+      "promoTitle": "Summer Essentials",
+      "promoDiscount": "20% off",
+      "promoDuration": "19 Jul - 30 Jul"
+    },
+    {
+      "image": "/public/assets/top-carousel1.webp",
+      "title": "Beachwear & Accessories",
+      "description": "Get ready for summer fun! from $5.77",
+      "background": "#8184a2",
+      "promoTitle": "Hot Summer Deals",
+      "promoDiscount": "30% off",
+      "promoDuration": "01 Aug - 15 Aug"
+    },
+    {
+      "image": "/public/assets/top-carousel2.webp",
+      "title": "Cotton Long-sleeved Shirt Trendy",
+      "description": "Workwear Men's Width from $6.12",
+      "background": "#8184a2",
+      "promoTitle": "Hot Summer Deals",
+      "promoDiscount": "30% off",
+      "promoDuration": "01 Aug - 15 Aug"
+    }
+  ],
+  "flashSales": [
+    {
+      "id": 1,
+      "deal": "Deal of the Day",
+      "img": "/assets/flash-1.png",
+      "hour": "12",
+      "min": "43",
+      "sec": "12",
+      "name": "Tonny Black",
+      "description": "Shoulder-bag-white-Plain",
+      "price": "$69.99",
+      "oldPrice": "$129.99",
+      "discount": "-40%"
+    },
+    {
+      "id": 2,
+      "deal": "Deal of the Day",
+      "img": "/assets/flash-2.png",
+      "hour": "02",
+      "min": "05",
+      "sec": "32",
+      "name": "Reebok",
+      "description": "Women's Powder sneakers",
+      "price": "$112.02",
+      "oldPrice": "$129.99",
+      "discount": "-40%"
+    },
+    {
+      "id": 3,
+      "deal": "Deal of the Day",
+      "img": "/assets/flash-3.png",
+      "hour": "02",
+      "min": "14",
+      "sec": "21",
+      "name": "Patso",
+      "description": "Shoulder-bag-Pink-Plain",
+      "price": "$69.99",
+      "oldPrice": "$129.99",
+      "discount": "-40%"
+    },
+    {
+      "id": 4,
+      "deal": "Deal of the Day",
+      "img": "/assets/flash-4.png",
+      "hour": "25",
+      "min": "11",
+      "sec": "02",
+      "name": "Sketches",
+      "description": "Sport-shoe 2102",
+      "price": "$80.00",
+      "oldPrice": "$129.99",
+      "discount": "-40%"
+    },
+    {
+      "id": 5,
+      "deal": "Deal of the Day",
+      "img": "/assets/flash-3.png",
+      "hour": "02",
+      "min": "14",
+      "sec": "21",
+      "name": "Patso",
+      "description": "Shoulder-bag-Pink-Plain",
+      "price": "$69.99",
+      "oldPrice": "$129.99",
+      "discount": "-40%"
+    },
+    {
+      "id": 6,
+      "deal": "Deal of the Day",
+      "img": "/assets/flash-4.png",
+      "hour": "25",
+      "min": "11",
+      "sec": "02",
+      "name": "Sketches",
+      "description": "Sport-shoe 2102",
+      "price": "$80.00",
+      "oldPrice": "$129.99",
+      "discount": "-40%"
+    },
+    {
+      "id": 7,
+      "deal": "Deal of the Day",
+      "img": "/assets/flash-1.png",
+      "hour": "12",
+      "min": "43",
+      "sec": "12",
+      "name": "Tonny Black",
+      "description": "Shoulder-bag-white-Plain",
+      "price": "$69.99",
+      "oldPrice": "$129.99",
+      "discount": "-40%"
+    },
+    {
+      "id": 8,
+      "deal": "Deal of the Day",
+      "img": "/assets/flash-2.png",
+      "hour": "02",
+      "min": "05",
+      "sec": "32",
+      "name": "Reebok",
+      "description": "Women's Powder sneakers",
+      "price": "$112.02",
+      "oldPrice": "$129.99",
+      "discount": "-40%"
+    }
+  ],
+  "trendings": [
+    {
+      "id": 1,
+      "img": "/assets/trending-1.png",
+      "name": "Cool & Sexy Calvin Klein",
+      "description": "Dotted dress-Casual",
+      "btn": "$89 Shop Now"
+    },
+    {
+      "id": 2,
+      "img": "/assets/trending-2.png",
+      "name": "Cool & Sexy Calvin Klein",
+      "description": "Dotted dress-Casual",
+      "btn": "$89 Shop Now",
+      "arrival": "/assets/New arivals.png"
+    },
+    {
+      "id": 3,
+      "img": "/assets/trending-3.png",
+      "name": "beige coat Zara",
+      "description": "Cream-Brown-Formal",
+      "btn": "$102 Shop Now",
+      "arrival": "/assets/New arivals.png"
+    },
+    {
+      "id": 4,
+      "img": "/assets/trending-2.png",
+      "name": "Cool & Sexy Calvin Klein",
+      "description": "Dotted dress-Casual",
+      "btn": "$89 Shop Now",
+      "arrival": "/assets/New arivals.png"
+    },
+    {
+      "id": 5,
+      "img": "/assets/trending-3.png",
+      "name": "beige coat Zara",
+      "description": "Cream-Brown-Formal",
+      "btn": "$102 Shop Now",
+      "arrival": "/assets/New arivals.png"
+    },
+    {
+      "id": 6,
+      "img": "/assets/trending-1.png",
+      "name": "Cool & Sexy Calvin Klein",
+      "description": "Dotted dress-Casual",
+      "btn": "$89 Shop Now"
+    }
+  ],
+  "hundreds": [
+    {
+      "id": 1,
+      "img": "/assets/top-1.png",
+      "name": "Mango",
+      "description": "Kimono & Caftan",
+      "rating": "289",
+      "price": "$228",
+      "oldPrice": "$290",
+      "discount": "-10%"
+    },
+    {
+      "id": 2,
+      "img": "/assets/top-2.png",
+      "name": "Zara",
+      "description": "Mid top blue",
+      "rating": "523",
+      "price": "$95",
+      "oldPrice": "$145",
+      "discount": "-7%"
+    },
+    {
+      "id": 3,
+      "img": "/assets/top-3.png",
+      "name": "Uniqlo",
+      "description": "Midi atlas Slim fit",
+      "rating": "86",
+      "price": "$125",
+      "oldPrice": "$156",
+      "discount": "-8%"
+    },
+    {
+      "id": 4,
+      "img": "/assets/top-4.png",
+      "name": "Mango",
+      "description": "Kimono & Caftan",
+      "rating": "121",
+      "price": "$365",
+      "oldPrice": "$487",
+      "discount": "-15%"
+    },
+    {
+      "id": 5,
+      "img": "/assets/top-2.png",
+      "name": "Zara",
+      "description": "Mid top Daily fit",
+      "rating": "523",
+      "price": "$95",
+      "oldPrice": "$145",
+      "discount": "-7%"
+    },
+    {
+      "id": 6,
+      "img": "/assets/top-3.png",
+      "name": "Uniqlo",
+      "description": "Midi atlas Slim fit",
+      "rating": "86",
+      "price": "$125",
+      "oldPrice": "$156",
+      "discount": "-8%"
+    },
+
+    {
+      "id": 7,
+      "img": "/assets/top-4.png",
+      "name": "Mango dress",
+      "description": "Kimono & Caftan",
+      "rating": "121",
+      "price": "$365",
+      "oldPrice": "$487",
+      "discount": "-15%"
+    },
+    {
+      "id": 8,
+      "img": "/assets/top-1.png",
+      "name": "Mango",
+      "description": "Kimono & Caftan",
+      "rating": "289",
+      "price": "$228",
+      "oldPrice": "$290",
+      "discount": "-10%"
+    }
+  ],
+  "slides": [
+    {
+      "name": "magsafe",
+      "description": "Snap on a magnetic case, wallet, or both. And get faster wireless charging",
+      "img": "/assets/slide.png",
+      "background": "#000"
+
+    },
+    {
+      "name": "magsafe",
+      "description": "Snap on a magnetic case, wallet, or both. And get faster wireless charging",
+      "img": "/assets/slide.png",
+      "background": "#0ef"
+
+    },
+    {
+      "name": "magsafe",
+      "description": "Snap on a magnetic case, wallet, or both. And get faster wireless charging",
+      "img": "/assets/slide.png"
+    },
+    {
+      "name": "magsafe",
+      "description": "Snap on a magnetic case, wallet, or both. And get faster wireless charging",
+      "img": "/assets/slide.png"
+    },
+    {
+      "name": "magsafe",
+      "description": "Snap on a magnetic case, wallet, or both. And get faster wireless charging",
+      "img": "/assets/slide.png"
+    }
+  ]
+}
