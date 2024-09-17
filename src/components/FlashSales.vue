@@ -4,7 +4,7 @@
       <div
         class="view d-flex align-center justify-space-between text-grey-darken-4"
       >
-        <h4 class="ml-3">Flash Sales</h4>
+        <h4 class="ml-3" data-aos="fade-left" >Flash Sales</h4>
         <span
           class="font-weight-bold cursor-pointer text-subtitle-2"
           style="font-size: 13px !important"
@@ -12,7 +12,9 @@
         >
       </div>
       <v-row class="mt-8 px-3 flashsales-row">
-        <v-col md="3" v-for="flashSale in flashSales" :key="flashSale.id">
+        <v-col md="3" v-for="flashSale in flashSales" :key="flashSale.id" data-aos="flip-left"
+        data-aos-easing="ease-out-cubic"
+        data-aos-duration="2000">
           <v-card class="bg-white px-8 py-4 d-flex justify-center">
             <div>
               <span

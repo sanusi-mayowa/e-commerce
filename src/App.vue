@@ -9,7 +9,7 @@
     <v-main>
       <router-view />
     </v-main>
-    <div class="footer">
+    <div>
       <FooterApp />
     </div>
   </v-app>
@@ -18,16 +18,13 @@
 <script>
 import NavbarDesktop from "@/components/NavbarDesktop.vue";
 import NavbarMobile from "@/components/NavbarMobile.vue";
-import FooterApp from './Cards/FooterApp.vue';
+import FooterApp from "./Cards/FooterApp.vue";
+
 export default {
- data() {
-    return {
-      components: {
-        NavbarDesktop,
-        NavbarMobile,
-        FooterApp,
-      },
-    };
+  components: {
+    NavbarMobile,
+    NavbarDesktop,
+    FooterApp,
   },
 };
 </script>

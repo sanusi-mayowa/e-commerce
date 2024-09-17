@@ -18,7 +18,7 @@
             }}</span>
           </div>
           <div>
-            <img :src="slide.img" alt="" />
+            <img :src="slide.img" alt="" width="100%" height="100%" />
           </div>
         </v-sheet>
       </v-carousel-item>

@@ -426,30 +426,33 @@
       "name": "magsafe",
       "description": "Snap on a magnetic case, wallet, or both. And get faster wireless charging",
       "img": "/assets/slide.png",
-      "background": "#000"
+      "background": "#F7DDD0"
 
     },
     {
       "name": "magsafe",
       "description": "Snap on a magnetic case, wallet, or both. And get faster wireless charging",
       "img": "/assets/slide.png",
-      "background": "#0ef"
+      "background": "#46525e"
 
     },
     {
       "name": "magsafe",
       "description": "Snap on a magnetic case, wallet, or both. And get faster wireless charging",
-      "img": "/assets/slide.png"
+      "img": "/assets/slide.png",
+      "background": "#3a4a49"
     },
     {
       "name": "magsafe",
       "description": "Snap on a magnetic case, wallet, or both. And get faster wireless charging",
-      "img": "/assets/slide.png"
+      "img": "/assets/slide.png",
+      "background": "#2e2f33"
     },
     {
       "name": "magsafe",
       "description": "Snap on a magnetic case, wallet, or both. And get faster wireless charging",
-      "img": "/assets/slide.png"
+      "img": "/assets/slide.png",
+      "background": "#cbccce"
     }
   ]
 }

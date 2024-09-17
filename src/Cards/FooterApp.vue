@@ -28,34 +28,31 @@
     </v-card>
     <v-footer class="bg-footer position-relative">
       <div class="footer-main mx-16">
-          <div>
-                        <v-list-item to="/home">lllllllllllllllllll</v-list-item>
-                     </div>
-          <!-- ============================== -->
-          <div>
-                        <v-list-item to="/home">lllllllllllllllllll</v-list-item>
-                     </div>
-          <!-- ============================== -->
-          <div>
-                        <v-list-item to="/home">lllllllllllllllllll</v-list-item>
-                     </div>
-          <!-- ============================== -->
-          <div>
-                        <v-list-item to="/home">lllllllllllllllllll</v-list-item>
-                     </div>
-          <!-- ============================== -->
+        <div>
+          <v-list-item to="/home">lllllllllllllllllll</v-list-item>
         </div>
+        <!-- ============================== -->
+        <div>
+          <v-list-item to="/home">lllllllllllllllllll</v-list-item>
+        </div>
+        <!-- ============================== -->
+        <div>
+          <v-list-item to="/home">lllllllllllllllllll</v-list-item>
+        </div>
+        <!-- ============================== -->
+        <div>
+          <v-list-item to="/home">lllllllllllllllllll</v-list-item>
+        </div>
+        <!-- ============================== -->
+      </div>
     </v-footer>
   </div>
 </template>
 <script>
-import data from "@/data.json";
 export default {
   name: "FooterApp",
   data() {
-    return {
-      footerlinks: data.footerlinks,
-    };
+    return {};
   },
 };
 </script>
