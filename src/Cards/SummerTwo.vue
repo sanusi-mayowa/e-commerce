@@ -4,7 +4,10 @@
       <v-row class="summer-row">
         <v-col cols="12">
           <div class="d-flex">
-            <div class="bg-summerone px-2 d-flex align-center" style="width: 100%">
+            <div
+              class="bg-summerone px-2 d-flex align-center"
+              style="width: 100%"
+            >
               <div class="summer-side">
                 <h1 class="text-white" style="font-size: 15px !important">
                   Never-Ending Summer
@@ -32,7 +35,10 @@
         </v-col>
         <v-col cols="12" md="6">
           <div class="d-flex">
-            <div class="bg-summerfour px-2 d-flex align-center" style="width: 72%">
+            <div
+              class="bg-summerfour px-2 d-flex align-center"
+              style="width: 72%"
+            >
               <div class="summer-">
                 <h1 class="text-white" style="font-size: 15px !important">
                   The most famous sport brands

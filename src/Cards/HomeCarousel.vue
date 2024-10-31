@@ -25,7 +25,10 @@
               <p class="text-h6 font-weight-bold my-5 text-white">
                 {{ homecarousel.description }}
               </p>
-              <v-btn class="bg-primary mt-3" flat>
+              <v-btn
+                class="bg-primary mt-3 animate__animated animate__infinite animate__heartBeat"
+                flat
+              >
                 <img src="/public/assets/shop.png" alt="Shop" />
                 <span class="text-uppercase ml-2">Shop now</span>
               </v-btn>
@@ -54,11 +57,11 @@
   </v-carousel>
 </template>
 <script>
-import data from "@/data.json"
+import data from "@/data.json";
 export default {
   data() {
     return {
-      homecarousels:data.homecarousels
+      homecarousels: data.homecarousels,
     };
   },
 };

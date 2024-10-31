@@ -1,9 +1,20 @@
 <template>
   <div class="my-16 bg-carousel" style="width: 100% !important">
-    <v-carousel height="220" cycle interval="3000" show-arrows="hover" progress="pink-lighten-3" hide-delimiters>
-      <v-carousel-item v-for="slide in slides" :key="slide" :style="{backgroundImage: `url(${slide.image})`}">
+    <v-carousel
+      height="220"
+      cycle
+      interval="3000"
+      show-arrows="hover"
+      progress="pink-lighten-3"
+      hide-delimiters
+    >
+      <v-carousel-item
+        v-for="slide in slides"
+        :key="slide"
+        :style="{ backgroundImage: `url(${slide.image})` }"
+      >
         <v-sheet
-        :style="{backgroundColor: slide.background}"
+          :style="{ backgroundColor: slide.background }"
           class="d-flex justify-space-evenly ga-2 align-center px-16"
         >
           <div>
@@ -18,7 +29,7 @@
             }}</span>
           </div>
           <div>
-            <img :src="slide.img" alt="" width="100%" height="100%" />
+            <img :src="slide.img" alt="" />
           </div>
         </v-sheet>
       </v-carousel-item>

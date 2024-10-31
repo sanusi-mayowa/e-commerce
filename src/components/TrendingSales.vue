@@ -33,11 +33,7 @@
                   <small class="text-grey">{{ trending.description }}</small>
                 </div>
                 <div>
-                  <v-btn
-                    variant="outlined"
-                    flat
-                    >{{ trending.btn }}</v-btn
-                  >
+                  <v-btn variant="outlined" class="animate__animated animate__infinite animate__pulse" flat>{{ trending.btn }}</v-btn>
                 </div>
               </div>
             </div>

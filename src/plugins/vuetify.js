@@ -20,6 +20,11 @@ export default createVuetify({
           top: "#4172DC",
           secondnav: "#262626",
           slide: "#465D6B",
+          concern: "#ffc9f6",
+          about: "#3e60c9",
+          btn: "#4172dc",
+          form: "#262626",
+          sidecard: "#eaf3fb"
         },
       },
     },

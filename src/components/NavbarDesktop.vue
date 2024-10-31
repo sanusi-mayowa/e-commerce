@@ -1,8 +1,6 @@
 <template>
   <v-app-bar class="bg-white first-nav" flat>
-    <section
-      class="d-flex align-center justify-space-evenly top-nav"
-    >
+    <section class="d-flex align-center justify-space-evenly top-nav">
       <div class="d-flex align-center ga-6 logo ml-n2">
         <div class="d-flex align-center ga-2 cursor-pointer">
           <img src="/public/assets/logo.png" width="40" alt="" />
@@ -127,7 +125,7 @@
       </v-col>
     </v-row>
   </v-app-bar>
-  <v-app-bar flat class="third-main">
+  <!-- <v-app-bar flat class="third-main">
     <section class="px-4 mx-4 third">
       <v-list
         nav
@@ -147,7 +145,7 @@
         </v-list-item>
       </v-list>
     </section>
-  </v-app-bar>
+  </v-app-bar> -->
 </template>
 
 <script>

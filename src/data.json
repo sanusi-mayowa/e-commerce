@@ -91,6 +91,14 @@
     {
       "id": 3,
       "text": "EUR"
+    },
+    {
+      "id": 4,
+      "text": "JPY"
+    },
+    {
+      "id": 5,
+      "text": "AUD"
     }
   ],
   "languages": [
@@ -100,7 +108,19 @@
     },
     {
       "id": 2,
-      "text": "English"
+      "text": "Arabic"
+    },
+    {
+      "id": 3,
+      "text": "French"
+    },
+    {
+      "id": 4,
+      "text": "German"
+    },
+    {
+      "id": 5,
+      "text": "Polish"
     }
   ],
   "thirdlinks": [
@@ -157,7 +177,7 @@
   ],
   "homecarousels": [
     {
-      "image": "/public/assets/top-girls.png",
+      "image": "/public/assets/top-slide-1.png",
       "title": "Kimonos, Caftans & Pareos",
       "description": "Poolside glam included from $4.99",
       "background": "#4172DC",
@@ -166,16 +186,61 @@
       "promoDuration": "19 Jul - 30 Jul"
     },
     {
-      "image": "/public/assets/top-carousel1.webp",
+      "image": "/public/assets/top-slide-2.webp",
       "title": "Beachwear & Accessories",
       "description": "Get ready for summer fun! from $5.77",
+      "background": "#818185",
+      "promoTitle": "Hot Summer Deals",
+      "promoDiscount": "30% off",
+      "promoDuration": "01 Aug - 15 Aug"
+    },
+    {
+      "image": "/public/assets/top-slide-3.jpg",
+      "title": "Cotton Long-sleeved Shirt Trendy",
+      "description": "Workwear Men's Width from $6.12",
+      "background": "#bfa594",
+      "promoTitle": "Hot Summer Deals",
+      "promoDiscount": "30% off",
+      "promoDuration": "01 Aug - 15 Aug"
+    },
+    {
+      "image": "/public/assets/top-slide-4.jpg",
+      "title": "Cotton Long-sleeved Shirt Trendy",
+      "description": "Workwear Men's Width from $6.12",
       "background": "#8184a2",
       "promoTitle": "Hot Summer Deals",
       "promoDiscount": "30% off",
       "promoDuration": "01 Aug - 15 Aug"
     },
     {
-      "image": "/public/assets/top-carousel2.webp",
+      "image": "/public/assets/top-slide-5.jpg",
+      "title": "Cotton Long-sleeved Shirt Trendy",
+      "description": "Workwear Men's Width from $6.12",
+      "background": "#ee9b00",
+      "promoTitle": "Hot Summer Deals",
+      "promoDiscount": "30% off",
+      "promoDuration": "01 Aug - 15 Aug"
+    },
+    {
+      "image": "/public/assets/top-slide-6.webp",
+      "title": "Cotton Long-sleeved Shirt Trendy",
+      "description": "Workwear Men's Width from $6.12",
+      "background": "#8184a2",
+      "promoTitle": "Hot Summer Deals",
+      "promoDiscount": "30% off",
+      "promoDuration": "01 Aug - 15 Aug"
+    },
+    {
+      "image": "/public/assets/top-slide-7.webp",
+      "title": "Cotton Long-sleeved Shirt Trendy",
+      "description": "Workwear Men's Width from $6.12",
+      "background": "#c9d1d7",
+      "promoTitle": "Hot Summer Deals",
+      "promoDiscount": "30% off",
+      "promoDuration": "01 Aug - 15 Aug"
+    },
+    {
+      "image": "/public/assets/top-slide-8.webp",
       "title": "Cotton Long-sleeved Shirt Trendy",
       "description": "Workwear Men's Width from $6.12",
       "background": "#8184a2",
@@ -427,14 +492,12 @@
       "description": "Snap on a magnetic case, wallet, or both. And get faster wireless charging",
       "img": "/assets/slide.png",
       "background": "#F7DDD0"
-
     },
     {
       "name": "magsafe",
       "description": "Snap on a magnetic case, wallet, or both. And get faster wireless charging",
       "img": "/assets/slide.png",
       "background": "#46525e"
-
     },
     {
       "name": "magsafe",
@@ -453,6 +516,49 @@
       "description": "Snap on a magnetic case, wallet, or both. And get faster wireless charging",
       "img": "/assets/slide.png",
       "background": "#cbccce"
+    }
+  ],
+  "ratings": [
+    {
+      "id": 1,
+      "level": "20",
+      "text": "Shopping Category"
+    },
+    {
+      "id": 2,
+      "level": "10",
+      "text": "Different Territory"
+    },
+    {
+      "id": 3,
+      "level": "4M",
+      "text": "Happy Client"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "Full Category Shop",
+      "description": "Explore our comprehensive online store where you'll find a diverse range of products across multiple categories, all curated to cater to your various needs and ....",
+      "img": "/assets/service-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Extraordinary duscount",
+      "description": "Experience unparalleled savings on awided selection of premium products that enhance your lifestyle without compromising on quality ....",
+      "img": "/assets/service-2.png"
+    },
+    {
+      "id": 3,
+      "name": "Free Cargo",
+      "description": "Enjoy the convenience of free cargo services, ensuring your purchase are delivered right to your doorstep without any additional cost. Experience seamless ....",
+      "img": "/assets/service-3.png"
+    },
+    {
+      "id": 4,
+      "name": "24-hour customer service",
+      "description": "Our commitment to exceptional customer care means our 24-hour customer service team is always available to assist you, ensuring your enquiries and concern ....",
+      "img": "/assets/service-4.png"
     }
   ]
 }
